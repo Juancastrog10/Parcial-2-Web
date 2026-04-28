@@ -1,5 +1,5 @@
 import { Link, Route, Routes } from "react-router-dom";
-import { SpacesPage } from "./pages/SpacesPages";
+import { SpacesPage } from "./pages/Spacespages";
 import { ReservationsPage } from "./pages/ReservationsPage";
 
 function App() {
